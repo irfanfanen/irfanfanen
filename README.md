@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- ✨ My Name is Fanen
+- ✨ My Name is Fan
 - 🌱 I’m Web Developer
